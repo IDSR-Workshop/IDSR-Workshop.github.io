@@ -85,6 +85,7 @@
 .box-tit .font {
   display: flex;
   justify-content: center;
+  color: #111;
   padding-top: 1.042vw;
 }
 
