@@ -193,6 +193,7 @@
 
 .new-box {
   padding: 2.083vw 1.25vw;
+  min-height: 5em;
 }
 
 .new-box p {
